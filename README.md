@@ -1,0 +1,1 @@
+# selfinity-windows-release
